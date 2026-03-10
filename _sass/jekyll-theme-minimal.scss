@@ -111,11 +111,17 @@ header img {
   margin:0 auto 20px auto;
 }
 
+
 header {
   width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+header a {
+  display: block;
+  text-align: center;
 }
 
 ul.downloads {
