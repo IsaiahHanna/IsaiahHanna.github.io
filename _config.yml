@@ -1,15 +1,19 @@
 title: Isaiah Hanna # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
   <a href="https://www.linkedin.com/in/isaiah-hanna/">LinkedIn</a> | 
   <a href="https://github.com/IsaiahHanna">GitHub</a>
-  <br><br>
+  </p>
+  
+  <p align="justify">
   Data Science student at Simon Fraser University with a Computing Science minor, focused on machine learning and data science.
   <br><br>
   I build practical ML systems including reinforcement learning agents, recommender systems, and predictive models using Python, PyTorch, and modern data science tools.
   <br><br>
   Previously a Junior Data Analyst Co-op at Trulioo, where I developed Python automation systems and SQL-driven analysis tools to investigate verification performance.
   <br><br>
+  </p>
   
   
 remote_theme: pages-themes/minimal@v0.2.0
