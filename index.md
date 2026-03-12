@@ -2,6 +2,7 @@
 ---
 ### Parameter-Efficient Fine-Tuning of Qwen2.5-VL for Hazard-Aware VQA in Urban Environments
 [![Project Proposal](https://img.shields.io/badge/PDF-Project_Proposal-red?logo=adobeacrobatreader)](https://isaiah-jqe0wb.filedrop.me/s/4da0f0b8-0c56-40c5-95a6-7770cc25ab5d)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/IsaiahHanna/Hazard-Aware-VQA)
 
 Visual Question Answering (VQA) has proven to be a useful tool in semantic risk detection and replanning by providing vehicles with the capability to answer natural language questions about the environment. In this project, I'll use HuggingFace's transformers library to fine-tune a Qwen2.5-VL model for vulnerable road user (VRU) intent prediction. I will then compare the fine-tuned model’s performance against ground-truth labels and a baseline Qwen2.5-VL-3B model without task-specific fine-tuning.
 
